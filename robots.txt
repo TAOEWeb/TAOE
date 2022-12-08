@@ -1,0 +1,6 @@
+# Robots.txt file from {1}://www.taoe.org
+
+Sitemap: {1}://www.taoe.org/sitemap.xml
+
+User-agent: *
+Disallow:
